@@ -1,1 +1,1 @@
-# generative-RL-supplementary
+Please find the supplementary file for the paper "Generative Multi-Agent Q-Learning for Policy Optimization: Decentralized Wireless Networks" by Talha Bozkus and Urbashi Mitra, submitted to IEEE Transactions on Signal Processing, 2024 for publication.
